@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="com.google.firebase:firebase-crash-10.2.1">
+    <CLASSES>
+      <root url="file://$GRADLE_USER_HOME$/caches/transforms-1/files-1.1/firebase-crash-10.2.1.aar/edd9411d891669ec68a7fb0ea104d956/res" />
+      <root url="jar://$GRADLE_USER_HOME$/caches/transforms-1/files-1.1/firebase-crash-10.2.1.aar/edd9411d891669ec68a7fb0ea104d956/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
